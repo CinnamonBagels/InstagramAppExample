@@ -1,3 +1,5 @@
+Samuel Ko
+
 Instagram Example
 ===========
 
